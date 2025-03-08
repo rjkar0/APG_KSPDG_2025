@@ -1,0 +1,1 @@
+The scripts need to be added to the "scripts" folder in the KSPDG environment installation, and the CPU logger can be placed anywhere, as long as the file save location is changed for the machine used.
